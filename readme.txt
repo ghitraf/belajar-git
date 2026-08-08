@@ -1,1 +1,1 @@
-Perubahan dari VM GCP
+Perubahan final: gabungan VM dan GitHub
