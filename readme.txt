@@ -1,2 +1,2 @@
 # Proyek Belajar Git
-Peubahan dari Git Hub
+Peubahan dari Git Hub langsung
