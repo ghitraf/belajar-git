@@ -1,1 +1,1 @@
-# Proyek Belajar Git
+Perubahan dari VM GCP
